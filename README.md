@@ -11,3 +11,9 @@
 <img src="https://github.com/Taslim-M/Guide-To-Neural-Network-Matrix-Dimension/blob/master/Images/GuideToSelectingMatrixDimension-Features as row, multiple data points.png" />
 
 ***
+
+# Singe data point, features as columns
+
+<img src="https://github.com/Taslim-M/Guide-To-Neural-Network-Matrix-Dimension/blob/master/Images/GuideToSelectingMatrixDimension-features-as-col-single-data.png" />
+
+***
