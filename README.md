@@ -2,12 +2,12 @@
 ***
 # Singe data point, features as rows 
 
-<img src="https://github.com/Taslim-M/Guide-To-Neural-Network-Matrix-Dimension/blob/master/GuideToSelectingMatrixDimension-Features as rows.png" />
+<img src="https://github.com/Taslim-M/Guide-To-Neural-Network-Matrix-Dimension/blob/master/Images/GuideToSelectingMatrixDimension-Features as rows.png" />
 
 ***
 
 # Multiple data points (batch), features as rows
 
-<img src="https://github.com/Taslim-M/Guide-To-Neural-Network-Matrix-Dimension/blob/master/GuideToSelectingMatrixDimension-Features as row, multiple data points.png" />
+<img src="https://github.com/Taslim-M/Guide-To-Neural-Network-Matrix-Dimension/blob/master/Images/GuideToSelectingMatrixDimension-Features as row, multiple data points.png" />
 
 ***
